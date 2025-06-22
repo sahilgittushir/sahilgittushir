@@ -15,7 +15,7 @@ I'm a passionate and driven Computer Science undergrad at **IIIT-Delhi** with a 
 - 🧠 I enjoy designing scalable data models, writing complex SQL queries, and working with Python ML libraries.
 - 📚 Previously worked with: `MySQL`, `Django`, `Flask`, `Pandas`, `NumPy`, `Matplotlib`, `Scikit-learn`
 - 💬 Ask me about: `ML Pipelines`, `Relational DB Design`, `SQL Optimization`, `Flask APIs`, and `Data Analysis`
-- 📨 Reach me at: sahilXXXXX@iiitd.ac.in (replace with real email)
+- 📨 Reach me at: sahil22427@iiitd.ac.in 
 - ⚡ Fun fact: I love debugging recursive logic and breaking down AI black-boxes into whiteboard logic ✨
 
 ---
