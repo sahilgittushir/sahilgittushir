@@ -46,6 +46,9 @@ I'm a passionate and driven Computer Science undergrad at **IIIT-Delhi** with a 
 
 - 🔗 [**BlinkCart**](https://github.com/yasservision24/IIITD-DBMS-Project): Full-fledged e-commerce database with user roles, SQL triggers, transaction control, and schema-based inventory management.
 - 🔗 [**AIR QUALITY**](https://github.com/LakshayTrehan77/Air-Quality-Regression-Analysis-Machine-Learning): Predictive regression model for air pollution levels using real-world environmental datasets.
+- [📸 **FameFinder** - Facial Recognition for Celebrities](https://github.com/sahilgittushir/FameFinder):  
+Uses deep learning (FaceNet + Dlib) to recognize celebrities from images, with a full React + Flask stack.
+
 
 ---
 
